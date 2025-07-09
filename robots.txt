@@ -6,5 +6,5 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://www.taarkik.tk/sitemap.xml
+Sitemap: https://www.taarkik.com/sitemap.xml
 
